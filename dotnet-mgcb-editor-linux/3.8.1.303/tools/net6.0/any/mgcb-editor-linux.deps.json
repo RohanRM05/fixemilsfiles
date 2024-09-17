@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mgcb-editor-linux/3.8.1.303": {
+        "runtime": {
+          "mgcb-editor-linux.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mgcb-editor-linux/3.8.1.303": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>dotnet-mgcb-editor-windows</id>
+    <version>3.8.1.303</version>
+    <authors>MonoGame Team</authors>
+    <license type="expression">MS-PL</license>
+    <licenseUrl>https://licenses.nuget.org/MS-PL</licenseUrl>
+    <icon>Icon.png</icon>
+    <projectUrl>https://www.monogame.net/</projectUrl>
+    <description>The MonoGame Framework Content Builder Editor (MGCB-Editor) is a graphical tool used for editing your content projects ready for processing.</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository url="https://github.com/MonoGame/MonoGame" />
+    <contentFiles>
+      <files include="any/net6.0/AssimpNet.dll" buildAction="Content" />
+      <files include="any/net6.0/ATI.TextureConverter.dll" buildAction="Content" />
+      <files include="any/net6.0/ATI.TextureConverter.dll.config" buildAction="Content" />
+      <files include="any/net6.0/CppNet.dll" buildAction="Content" />
+      <files include="any/net6.0/Xceed.Wpf.AvalonDock.resources.dll" buildAction="Content" />
+      <files include="any/net6.0/Eto.dll" buildAction="Content" />
+      <files include="any/net6.0/Eto.Wpf.dll" buildAction="Content" />
+      <files include="any/net6.0/libmojoshader_64.dll" buildAction="Content" />
+      <files include="any/net6.0/mgcb-editor-windows.deps.json" buildAction="Content" />
+      <files include="any/net6.0/mgcb-editor-windows.dll" buildAction="Content" />
+      <files include="any/net6.0/mgcb-editor-windows.dll.config" buildAction="Content" />
+      <files include="any/net6.0/mgcb-editor-windows.exe" buildAction="Content" />
+      <files include="any/net6.0/mgcb-editor-windows.pdb" buildAction="Content" />
+      <files include="any/net6.0/mgcb-editor-windows.runtimeconfig.json" buildAction="Content" />
+      <files include="any/net6.0/mgfxc.deps.json" buildAction="Content" />
+      <files include="any/net6.0/mgfxc.dll" buildAction="Content" />
+      <files include="any/net6.0/mgfxc.exe" buildAction="Content" />
+      <files include="any/net6.0/mgfxc.pdb" buildAction="Content" />
+      <files include="any/net6.0/mgfxc.runtimeconfig.json" buildAction="Content" />
+      <files include="any/net6.0/Microsoft.WindowsAPICodePack.dll" buildAction="Content" />
+      <files include="any/net6.0/Microsoft.WindowsAPICodePack.Shell.dll" buildAction="Content" />
+      <files include="any/net6.0/MonoGame.Framework.Content.Pipeline.dll" buildAction="Content" />
+      <files include="any/net6.0/MonoGame.Framework.Content.Pipeline.pdb" buildAction="Content" />
+      <files include="any/net6.0/MonoGame.Framework.dll" buildAction="Content" />
+      <files include="any/net6.0/MonoGame.Framework.pdb" buildAction="Content" />
+      <files include="any/net6.0/Nvidia.TextureTools.dll" buildAction="Content" />
+      <files include="any/net6.0/Nvidia.TextureTools.dll.config" buildAction="Content" />
+      <files include="any/net6.0/PVRTexLibNET.dll" buildAction="Content" />
+      <files include="any/net6.0/PVRTexLibNET.dll.config" buildAction="Content" />
+      <files include="any/net6.0/libassimp.so" buildAction="Content" />
+      <files include="any/net6.0/libassimp.dylib" buildAction="Content" />
+      <files include="any/net6.0/assimp.dll" buildAction="Content" />
+      <files include="any/net6.0/SharpDX.D3DCompiler.dll" buildAction="Content" />
+      <files include="any/net6.0/SharpDX.D3DCompiler.xml" buildAction="Content" />
+      <files include="any/net6.0/SharpDX.dll" buildAction="Content" />
+      <files include="any/net6.0/SharpDX.xml" buildAction="Content" />
+      <files include="any/net6.0/SharpFont.dll" buildAction="Content" />
+      <files include="any/net6.0/SharpFont.dll.config" buildAction="Content" />
+      <files include="any/net6.0/Effect.fx" buildAction="Content" />
+      <files include="any/net6.0/Effect.png" buildAction="Content" />
+      <files include="any/net6.0/Effect.template" buildAction="Content" />
+      <files include="any/net6.0/Font.png" buildAction="Content" />
+      <files include="any/net6.0/LocalizedSpriteFont.spritefont" buildAction="Content" />
+      <files include="any/net6.0/LocalizedSpriteFont.template" buildAction="Content" />
+      <files include="any/net6.0/SpriteEffect.fx" buildAction="Content" />
+      <files include="any/net6.0/SpriteEffect.template" buildAction="Content" />
+      <files include="any/net6.0/SpriteFont.spritefont" buildAction="Content" />
+      <files include="any/net6.0/SpriteFont.template" buildAction="Content" />
+      <files include="any/net6.0/Xml.png" buildAction="Content" />
+      <files include="any/net6.0/XmlContent.template" buildAction="Content" />
+      <files include="any/net6.0/XmlContent.xml" buildAction="Content" />
+      <files include="any/net6.0/Xceed.Wpf.AvalonDock.dll" buildAction="Content" />
+      <files include="any/net6.0/Xceed.Wpf.AvalonDock.Themes.Aero.dll" buildAction="Content" />
+      <files include="any/net6.0/Xceed.Wpf.AvalonDock.Themes.Metro.dll" buildAction="Content" />
+      <files include="any/net6.0/Xceed.Wpf.AvalonDock.Themes.VS2010.dll" buildAction="Content" />
+      <files include="any/net6.0/Xceed.Wpf.Toolkit.dll" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+</package>
